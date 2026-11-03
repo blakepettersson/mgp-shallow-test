@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: mgp-a
 data:
-  rev: "1"
+  rev: "2"
